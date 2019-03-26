@@ -1,0 +1,47 @@
+
+.header{
+	position: absolute;
+	width: 40%;
+	right: 15px;
+	top: 15px;
+}
+
+.ukraine {
+	position: absolute;
+	right: 15px;
+	top: 50px;
+	width: 37%;
+}
+.header p{
+	text-align: right;
+	font-size: 22px;
+	line-height: 1;
+	font-family: Gabriola;
+
+
+}
+
+
+.description{
+	position: absolute;
+	padding: 10 px;
+	box-sizing: border-box;
+	width: 400px;
+	height: 290px;
+	top:360px;
+	font-family: Gabriola;
+	font-size: 18px;
+	left: 10px;
+}
+.description h2{
+	text-align: center;
+	font-family: Gabriola;
+	line-height: 1;
+
+}
+.description p{
+	text-align: left;
+	font-family: Georgia;
+	color: black;
+	line-height: 0.8;
+}
